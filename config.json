@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperstringify",
+        "uuid": 1235052,
+        "checksum": "fztxma"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
